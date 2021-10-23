@@ -1,0 +1,2 @@
+# ixy_illust_annotation
+Ixy先生がTwitterにアップロードしているイラストに対するキャラクター名・作品名のアノテーションデータ
